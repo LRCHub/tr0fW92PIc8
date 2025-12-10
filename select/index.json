@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "メンタルチェンソー",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-10T12:27:49.335743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メンタルチェンソー",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_メンタルチェンソー_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メンタルチェンソー",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/02_メンタルチェンソー_P丸様。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メンタルチェンソー",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_メンタルチェンソー_かいりきベア.txt"
+    }
+  ]
+}
